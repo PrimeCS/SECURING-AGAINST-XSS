@@ -104,7 +104,7 @@ This project was also used to study Cross-Site Scripting (XSS):
 - `sanitize_input()` cleans text on the way in (before it is saved).
 - `e()` escapes text on the way out (right before it is displayed).
 - Both layers must be disabled at the same time to reproduce the XSS demo; disabling only one still blocks it.
-- A demo-only file used for a phishing/credential-capture exercise is **not** included in this repository, since that code is only safe to keep locally for a classroom activity.
+- A demo-only file used for a phishing/credential-capture exercise is **not** included in this repository.
 
 ## Screenshots
 
